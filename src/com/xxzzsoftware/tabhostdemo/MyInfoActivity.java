@@ -1,4 +1,4 @@
-package org.geeku.tabhostdemo;
+package com.xxzzsoftware.tabhostdemo;
 
 import android.app.Activity;
 import android.os.Bundle;

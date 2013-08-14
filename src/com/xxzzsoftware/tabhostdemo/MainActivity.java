@@ -1,4 +1,6 @@
-package org.geeku.tabhostdemo;
+package com.xxzzsoftware.tabhostdemo;
+
+import org.geeku.tabhostdemo.R;
 
 import android.app.TabActivity;
 import android.content.Intent;
@@ -71,7 +73,6 @@ public class MainActivity extends TabActivity implements OnCheckedChangeListener
 		case R.id.radio_button4:
 			this.tabhost.setCurrentTabByTag("iMore");
 			break;
-
 		default:
 			break;
 		}
