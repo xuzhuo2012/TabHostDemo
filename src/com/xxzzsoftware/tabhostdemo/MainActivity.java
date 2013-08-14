@@ -1,7 +1,5 @@
 package com.xxzzsoftware.tabhostdemo;
 
-import org.geeku.tabhostdemo.R;
-
 import android.app.TabActivity;
 import android.content.Intent;
 import android.os.Bundle;
